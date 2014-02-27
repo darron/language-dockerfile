@@ -1,0 +1,13 @@
+{
+  "name": "language-dockerfile",
+  "version": "0.0.0",
+  "private": true,
+  "description": "Dockerfile support for Atom.",
+  "repository": "https://github.com/darron/language-dockerfile",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.50.0"
+  },
+  "dependencies": {
+  }
+}

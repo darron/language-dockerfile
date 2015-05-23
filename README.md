@@ -1,3 +1,7 @@
+# DEPRECATED
+
+Use [https://github.com/jagregory/language-docker](https://github.com/jagregory/language-docker) instead.
+
 # language-dockerfile package
 
 Dockerfile support for Atom.
